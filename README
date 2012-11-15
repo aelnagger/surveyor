@@ -1,0 +1,11 @@
+README
+
+Basic survey web application.
+
+Page flow:
+	/survey/start
+	/survey
+	/survey/finish
+
+Additional pages?
+	/management
